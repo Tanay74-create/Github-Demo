@@ -1,0 +1,14 @@
+public class animalfarm{
+   int age;
+   Sting species;
+
+   int getAge(){
+       return age;
+       }
+
+   String getSpecies(){
+      return this.species;
+      }
+       
+
+       }
